@@ -1,0 +1,15 @@
+[
+    {
+        "customerNumber": 1,
+        "customerName": "Kishan",
+        "region": "Port Louis",
+        "address": "Flat No-1, 2nd street,USA",
+        "customerPhoneNumber": 9999999999,
+        "currency": "USD",
+        "amount": "10",
+        "bankName": "xyz",
+        "accountNumber": "123",
+        "userId": "uday123",
+        "referenceNumber": "CUS20221118579"
+    }
+]

@@ -1,0 +1,9 @@
+[
+    {
+        "customerNumber" : 1,
+        "customerName" : "Kishan",
+        "customerPhoneNumber" : 9999999999,
+        "address" : "Flat No-1, 2nd street,USA",
+        "region" : "Port Louis"
+    }
+]

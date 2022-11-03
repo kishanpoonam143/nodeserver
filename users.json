@@ -1,0 +1,10 @@
+[
+    {
+        "name": "kishan",
+        "userName": "kish",
+        "password": "123",
+        "addTransactionAccess": true,
+        "viewTransactionAccess": true,
+        "userId": "USR469"
+    }
+]
